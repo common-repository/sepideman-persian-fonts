@@ -1,0 +1,50 @@
+/*___IRANIAN-SANS___*/
+@font-face {
+		font-family: "iraniansans";
+		src: url(fonts/IranianSansWeb-Regular.woff) format("woff");
+		font-weight: normal;
+		font-style: normal
+}
+
+/*___IRANIAN-SERIF___*/
+@font-face {
+		font-family: "iranianserif";
+		src: url(fonts/IranianSerifWeb-Regular.woff) format("woff");
+		font-weight: normal;
+		font-style: normal
+}
+
+/*___BBCNassim___*/
+@font-face {
+		font-family: "bbcnasim";
+		src: url(fonts/BBCNassim.eot);
+		src: url(fonts/BBCNassim.eot?#iefix) format("embedded-opentype"), url(fonts/BBCNassim.woff) format("woff"), url(fonts/BBCNassim.ttf) format("truetype"), url(fonts/BBCNassim.svg#BBCNassim) format("svg");
+		font-weight: normal;
+		font-style: normal
+}
+
+/*___BYEKAN___*/
+@font-face {
+		font-family: "byekan";
+		src: url(fonts/BYekan.eot);
+		src: url(fonts/BYekan.eot?#iefix) format("embedded-opentype"), url(fonts/BYekan.woff) format("woff"), url(fonts/BYekan.ttf) format("truetype"), url(fonts/BYekan.svg#BYekan) format("svg");
+		font-weight: normal;
+		font-style: normal
+}
+
+/*___GESS___*/
+@font-face {
+		font-family: "gess";
+		src: url(fonts/GE_SS_Two_Medium.eot);
+		src: url(fonts/GE_SS_Two_Medium.eot?#iefix) format("embedded-opentype"), url(fonts/GE_SS_Two_Medium.woff) format("woff"), url(fonts/GE_SS_Two_Medium.ttf) format("truetype"), url(fonts/GE_SS_Two_Medium.svg#GE_SS_Two_Medium) format("svg");
+		font-weight: normal;
+		font-style: normal
+}
+
+/*___MITRA___*/
+@font-face {
+		font-family: "mitra";
+		src: url(fonts/b-mitra.woff) format("woff"), url(fonts/b-mitra.ttf) format("truetype");
+		font-weight: normal;
+		font-style: normal
+}
